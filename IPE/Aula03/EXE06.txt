@@ -1,0 +1,2 @@
+6) Descreva o funcionamento da estrutura condicional.
+Permite a escolha do grupo de ações e estruturas que serão executados, quando determinadas condições, representadas por expressões lógicas (verdadeiro ou falso), forem ou não satisfeitas.

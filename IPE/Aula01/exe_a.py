@@ -1,0 +1,1 @@
+print('{} \n{} \n{} \n{}'.format('Nome:Bruno Barros de Brito','Data de Nascimento: 13/12/2004','Endereço: Rua Antenor Cupertino de Barros','Local de Nascimento: Goiânia'))

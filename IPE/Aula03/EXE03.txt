@@ -1,0 +1,2 @@
+3) Como funciona a estrutura sequencial?
+Em ciência da computação, uma estrutura sequencial é uma estrutura de desvio do fluxo de controle presente em linguagens de programação que realiza um conjunto predeterminado de comandos de forma sequencial, de cima para baixo, na ordem em que foram declarados.
